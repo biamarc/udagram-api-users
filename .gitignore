@@ -41,5 +41,6 @@ venv/
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
 
+/mock/
 *.ps1
 env.docker
